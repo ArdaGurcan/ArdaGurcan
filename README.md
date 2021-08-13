@@ -2,7 +2,7 @@
 <div align="center">
   
 # [Arda Gürcan](https://ardagurcan.com)
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdaGurcan&count_private=true&show_icons=true&theme=radical&hide_title=true)
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdaGurcan&count_private=true&show_icons=true&theme=radical&hide_title=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10&theme=radical&hide=typescript&hide_title=true&card_width=445)
 
 </div>

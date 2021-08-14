@@ -9,7 +9,7 @@
 </div>
   
 - 🇹🇷 Turkish
-- 🏳️‍⚧️ They/Them
+- 🥚 He/Him
 - ⌨️ JS, Python, Unity C#
 - 📬 ardagurcan2004@gmail.com
 - ⭐ Philosophy, Politics, Maths, Physics, [Game Design](https://agurcan.itch.io), 3D Modeling & Printing

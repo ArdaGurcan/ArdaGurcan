@@ -19,7 +19,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage,lines              # Additionally display total bytes size and percentage
           plugin_languages_limit: 8                                     # Display up to 8 languages
           plugin_languages_sections: most-use           # Display most used and recently used languages stats
-          plugin_languages_indepth: no                                 # Get indepth stats (see documentation before enabling)
+          plugin_languages_indepth: yes                                 # Get indepth stats (see documentation before enabling)
           plugin_licenses: yes
           plugin_licenses_ratio: yes
 #           plugin_isocalendar: yes

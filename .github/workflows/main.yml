@@ -30,7 +30,7 @@ jobs:
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           commits_authoring: lowlighter@users.noreply.github.com  
           repositories_affiliations: owner, collaborator
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: half-year
           plugin_lines: yes
           config_timezone: Europe/Istanbul # Set timezone

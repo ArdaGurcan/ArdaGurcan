@@ -1,5 +1,7 @@
 <div align="center">  
+ 
 ![Arda's GitHub stats](https://github.com/ArdaGurcan/ArdaGurcan/blob/main/github-metrics.svg)
+ 
  </div>
 - 🇹🇷 Turkish
 - 🥚 He/Him

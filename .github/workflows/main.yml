@@ -16,14 +16,27 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_ignored: html, css                           # List of languages to ignore
-          plugin_languages_skipped: my-test-repo                        # List of repositories to skip
-          plugin_languages_colors: "0:orange, javascript:#ff0000, ..."  # Make most used languages orange and JavaScript red
-          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." # Customize languages names with aliases
-          plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
-          plugin_la nguages_threshold: 2%                               # Hides all languages less than 2%
+          plugin_languages_skipped: my-test-repo                        # List of repositories to ski
+          plugin_languages_details: bytes-size, percentage,lines              # Additionally display total bytes size and percentage
           plugin_languages_limit: 8                                     # Display up to 8 languages
-          plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
-          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
-          plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
-          plugin_languages_recent_days: 7                               # Limit recently used stats to last week
-          commits_authoring: lowlighter@users.noreply.github.com  
+          plugin_languages_sections: most-use           # Display most used and recently used languages stats
+          plugin_languages_indepth: yes                                 # Get indepth stats (see documentation before enabling)
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 365        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          config_timezone: Europe/Moscow # Set timezone
+          plugin_music: yes
+          
+          
+          plugin_music_limit: 3                   # Limit to 4 entries
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/4WTZ2laID2egcUHna58zQH
+          
+          
+          

@@ -18,7 +18,7 @@
     # List of surnames or email addresses you use when authoring commits
     commits_authoring: # optional, default is .user.login
     # GitHub Personal Token
-    token: ${{ secrets.METRICS_TOKEN }}
+    token: 
     # GitHub username
     user: # optional, default is 
     # GitHub repository

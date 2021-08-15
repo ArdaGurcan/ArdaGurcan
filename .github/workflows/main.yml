@@ -17,12 +17,13 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_indepth: yes                                  # Get indepth stats (see documentation before enabling)
+                                            # Get indepth stats (see documentation before enabling)
 
-          plugin_languages_ignored: html, css, java, python, javascript                           # List of languages to ignore
+          plugin_languages_ignored: html, css                          # List of languages to ignore
           plugin_languages_details: bytes-size, percentage, lines            # Additionally display total bytes size and percentage
           plugin_languages_limit: 8                                     # Display up to 8 languages
           plugin_languages_sections: most-used        # Display most used and recently used languages stats
+          plugin_languages_indepth: yes
           commits_authoring: lowlighter@users.noreply.github.com  
           repositories_affiliations: owner, collaborator
 #           plugin_isocalendar: yes

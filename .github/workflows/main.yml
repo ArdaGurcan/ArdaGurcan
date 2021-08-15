@@ -32,5 +32,7 @@ jobs:
           repositories_affiliations: owner, collaborator
 #           plugin_isocalendar: yes
 #           plugin_isocalendar_duration: half-year
+          plugin_followup: yes
+          plugin_followup_sections: user 
           plugin_lines: yes
           config_timezone: Europe/Istanbul # Set timezone

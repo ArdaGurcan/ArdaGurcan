@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
 img[src*="#metrics"] {
    width:150px;
    height:100px;

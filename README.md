@@ -1,7 +1,9 @@
+<style>
 img[src*="#metrics"] {
    width:150px;
    height:100px;
 }
+</style>
 <div align="center">  
  
 [![Arda's GitHub stats](https://github.com/ArdaGurcan/ArdaGurcan/blob/main/github-metrics.svg#metrics)](#)

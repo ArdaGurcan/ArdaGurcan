@@ -22,7 +22,7 @@ jobs:
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
           plugin_achievements_display: detailed 
           config_display: large
-          config_padding: 0, -11%
+          config_padding: 0, -3%
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
@@ -32,7 +32,7 @@ jobs:
           plugin_languages_ignored: html, css, scss, makefile, roff                 # List of languages to ignore
           plugin_languages_details: percentage              # Additionally display total bytes size and percentage
           plugin_languages_limit: 8                                     # Display up to 8 languages
-          plugin_languages_sections: most-used          # Display most used and recently used languages stats
+          plugin_languages_sections: most-used, recently-used          # Display most used and recently used languages stats
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           commits_authoring: lowlighter@users.noreply.github.com  
           repositories_affiliations: owner, collaborator

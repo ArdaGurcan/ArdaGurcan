@@ -1590,9 +1590,9 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="565.9273558547117" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="565.9273558547117" y="0" width="282.84683769367535" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="848.7741935483871" y="0" width="71.22580645161291" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="569.7187276260612" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="569.7187276260612" y="0" width="278.5782960008183" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="848.2970236268793" y="0" width="71.70297637312059" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1602,7 +1602,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>61.51%</div>
+                                <div>61.93%</div>
                             </small>
                         </div>
                     </section>
@@ -1613,7 +1613,7 @@
                       Rust
                     </div>
                             <small>
-                                <div>30.74%</div>
+                                <div>30.28%</div>
                             </small>
                         </div>
                     </section>
@@ -1624,7 +1624,7 @@
                       Python
                     </div>
                             <small>
-                                <div>7.74%</div>
+                                <div>7.79%</div>
                             </small>
                         </div>
                     </section>
@@ -2899,7 +2899,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.56459456589297 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.57431699692417 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">

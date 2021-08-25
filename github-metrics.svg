@@ -1583,16 +1583,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 32 edited files from 35 commits over last 7 days
+            estimation from 30 edited files from 33 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="537.0216049382716" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="537.0216049382716" y="0" width="247.74691358024688" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="784.7685185185186" y="0" width="135.23148148148147" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="602.6523777628935" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="602.6523777628935" y="0" width="286.7425764679616" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="889.394954230855" y="0" width="30.605045769144898" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1602,7 +1602,7 @@
                       Rust
                     </div>
                             <small>
-                                <div>58.37%</div>
+                                <div>65.51%</div>
                             </small>
                         </div>
                     </section>
@@ -1613,7 +1613,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>26.93%</div>
+                                <div>31.17%</div>
                             </small>
                         </div>
                     </section>
@@ -1624,7 +1624,7 @@
                       Python
                     </div>
                             <small>
-                                <div>14.7%</div>
+                                <div>3.33%</div>
                             </small>
                         </div>
                     </section>
@@ -2904,7 +2904,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.83123254669263 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="86.83924593020677 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">

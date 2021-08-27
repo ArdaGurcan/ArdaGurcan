@@ -1583,16 +1583,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 26 edited files from 30 commits over last 7 days
+            estimation from 23 edited files from 23 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="613.841059602649" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="613.841059602649" y="0" width="260.76821192052984" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="874.6092715231788" y="0" width="45.39072847682119" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="537.1428571428571" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="537.1428571428571" y="0" width="326.09523809523813" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="863.2380952380952" y="0" width="56.76190476190476" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1602,7 +1602,7 @@
                       Rust
                     </div>
                             <small>
-                                <div>66.72%</div>
+                                <div>58.39%</div>
                             </small>
                         </div>
                     </section>
@@ -1613,7 +1613,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>28.34%</div>
+                                <div>35.45%</div>
                             </small>
                         </div>
                     </section>
@@ -1624,7 +1624,7 @@
                       Python
                     </div>
                             <small>
-                                <div>4.93%</div>
+                                <div>6.17%</div>
                             </small>
                         </div>
                     </section>
@@ -2914,7 +2914,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.23725242944573 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.24663197163561 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2951,7 +2951,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.020100502512562 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.798994974874372 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2971,7 +2971,7 @@
                   
                   
                 </div>
-                                <div class="text">Starred 19 repositories</div>
+                                <div class="text">Starred 20 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">

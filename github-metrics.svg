@@ -1583,29 +1583,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 23 edited files from 23 commits over last 7 days
+            estimation from 21 edited files from 22 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="537.1428571428571" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="537.1428571428571" y="0" width="326.09523809523813" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="863.2380952380952" y="0" width="56.76190476190476" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="634.5850120870266" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="634.5850120870266" y="0" width="174.955680902498" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="809.5406929895246" y="0" width="110.45930701047541" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Rust
-                    </div>
-                            <small>
-                                <div>58.39%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -1613,7 +1602,18 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>35.45%</div>
+                                <div>68.98%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Rust
+                    </div>
+                            <small>
+                                <div>19.02%</div>
                             </small>
                         </div>
                     </section>
@@ -1624,7 +1624,7 @@
                       Python
                     </div>
                             <small>
-                                <div>6.17%</div>
+                                <div>12.01%</div>
                             </small>
                         </div>
                     </section>
@@ -2914,7 +2914,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.24663197163561 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.25575978873353 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">

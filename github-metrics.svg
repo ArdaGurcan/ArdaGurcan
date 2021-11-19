@@ -1752,8 +1752,8 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="504.89726027397256" height="8" fill="#76d275"/>
-                    <rect mask="url(#languages-bar)" x="504.89726027397256" y="0" width="415.1027397260274" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="503.11263972484954" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="503.11263972484954" y="0" width="416.88736027515046" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1763,7 +1763,7 @@
                       Starlark
                     </div>
                             <small>
-                                <div>54.88%</div>
+                                <div>54.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1774,7 +1774,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>45.12%</div>
+                                <div>45.31%</div>
                             </small>
                         </div>
                     </section>

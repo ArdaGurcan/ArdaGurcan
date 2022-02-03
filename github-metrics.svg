@@ -410,10 +410,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.0579043133897" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.0579043133897" y="0" width="273.9419886546077" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="726.9998929679974" y="0" width="146.52253023654072" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="873.5224232045381" y="0" width="46.47757679546184" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.7614954877525" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.7614954877525" y="0" width="274.97206703910615" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="729.7335625268586" y="0" width="147.07348517404384" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="876.8070477009024" y="0" width="43.192952299097556" height="8" fill="#76d275"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -425,7 +425,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>49.25%</div>
+                                <div>49.43%</div>
                             </small>
                         </div>
                     </section>
@@ -438,7 +438,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>29.78%</div>
+                                <div>29.89%</div>
                             </small>
                         </div>
                     </section>
@@ -451,7 +451,7 @@
                                 SVG
                             </div>
                             <small>
-                                <div>15.93%</div>
+                                <div>15.99%</div>
                             </small>
                         </div>
                     </section>
@@ -464,7 +464,7 @@
                                 Starlark
                             </div>
                             <small>
-                                <div>5.05%</div>
+                                <div>4.69%</div>
                             </small>
                         </div>
                     </section>

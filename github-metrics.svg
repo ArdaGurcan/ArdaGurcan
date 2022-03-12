@@ -410,8 +410,8 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="820.2145411203813" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="820.2145411203813" y="0" width="99.78545887961859" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="820.2739726027397" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="820.2739726027397" y="0" width="99.72602739726027" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -423,7 +423,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>89.15%</div>
+                                <div>89.16%</div>
                             </small>
                         </div>
                     </section>
@@ -436,7 +436,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>10.85%</div>
+                                <div>10.84%</div>
                             </small>
                         </div>
                     </section>

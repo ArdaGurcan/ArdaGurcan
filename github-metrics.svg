@@ -404,15 +404,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 28 edited files from 27 commits over last 7 days</small>
+                <small>estimation from 25 edited files from 23 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="656.03683709114" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="656.03683709114" y="0" width="190.92410288980628" height="8" fill="#AA70FF"/>
-                    <rect mask="url(#languages-bar)" x="846.9609399809464" y="0" width="73.03906001905366" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="512.1393523061826" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="512.1393523061826" y="0" width="295.00490677134445" height="8" fill="#AA70FF"/>
+                    <rect mask="url(#languages-bar)" x="807.1442590775271" y="0" width="112.85574092247302" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -424,7 +424,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>71.31%</div>
+                                <div>55.67%</div>
                             </small>
                         </div>
                     </section>
@@ -437,7 +437,7 @@
                                 OpenQASM
                             </div>
                             <small>
-                                <div>20.75%</div>
+                                <div>32.07%</div>
                             </small>
                         </div>
                     </section>
@@ -450,7 +450,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>7.94%</div>
+                                <div>12.27%</div>
                             </small>
                         </div>
                     </section>

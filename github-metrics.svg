@@ -410,9 +410,9 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="915.1467749450842" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="915.1467749450842" y="0" width="2.939492777740797" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="918.086267722825" y="0" width="1.9137322771749985" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="915.1201392142427" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="915.1201392142427" y="0" width="2.95562546014323" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="918.0757646743859" y="0" width="1.924235325614082" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>

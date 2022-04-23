@@ -404,15 +404,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 48 edited files from 37 commits over last 7 days</small>
+                <small>estimation from 46 edited files from 36 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="917.0160626029653" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="917.0160626029653" y="0" width="1.9735035694673257" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="918.9895661724327" y="0" width="1.0104338275672708" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="894.3917525773196" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="894.3917525773196" y="0" width="16.936671575846834" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="911.3284241531665" y="0" width="8.671575846833578" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -424,7 +424,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>99.68%</div>
+                                <div>97.22%</div>
                             </small>
                         </div>
                     </section>
@@ -437,7 +437,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>0.21%</div>
+                                <div>1.84%</div>
                             </small>
                         </div>
                     </section>
@@ -450,7 +450,7 @@
                                 robots.txt
                             </div>
                             <small>
-                                <div>0.11%</div>
+                                <div>0.94%</div>
                             </small>
                         </div>
                     </section>

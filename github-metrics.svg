@@ -498,14 +498,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 39.2kb of code in 9 edited files across 15 commits over last 7 days</small>
+                <small>estimation from 39.3kb of code in 9 edited files across 13 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="909.057236369442" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="909.057236369442" y="0" width="10.942763630557995" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="909.1072350907863" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="909.1072350907863" y="0" width="10.892764909213716" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -517,7 +517,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>98.81%</div>
+                                <div>98.82%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.19%</div>
+                                <div>1.18%</div>
                             </small>
                         </div>
                     </section>

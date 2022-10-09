@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.19m added, 2.12m removed
+                                    6.22m added, 2.12m removed
                                 </div>
                             </section>
                             <section>
@@ -382,14 +382,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="851.6474664843599" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="851.6474664843599" y="0" width="42.1056277667797" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="893.7530942511396" y="0" width="13.7680177313778" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="907.5211119825174" y="0" width="5.873036920454674" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="913.3941489029721" y="0" width="2.596394599117207" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="915.9905435020893" y="0" width="2.2515198339693416" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="918.2420633360585" y="0" width="0.9301044066134183" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="919.172167742672" y="0" width="0.8278322573279752" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="851.9301627463697" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="851.9301627463697" y="0" width="42.11960432873482" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="894.0497670751046" y="0" width="13.772587893682177" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="907.8223549687867" y="0" width="5.569601184854183" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="913.3919561536409" y="0" width="2.5972564475659587" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="915.9892126012069" y="0" width="2.252267204525766" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="918.2414798057326" y="0" width="0.930413145909167" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="919.1718929516418" y="0" width="0.8281070483582166" height="8" fill="#dea584"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -401,7 +401,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>92.57%</div>
+                                <div>92.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -473,7 +473,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>0.64%</div>
+                                <div>0.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1715,7 +1715,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 204k out of 99m users</span>
+                                    <span class="gh">ranked 205k out of 99m users</span>
                                 </div>
                                 <div class="text">Published 82 public repositories</div>
                             </div>
